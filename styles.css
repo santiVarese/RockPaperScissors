@@ -1,0 +1,56 @@
+.container {
+  margin: 0px;
+}
+
+.titulo {
+  display: flex;
+  justify-content: center;
+  font-size: 4vh;
+}
+
+.imagenDelTitulo {
+  width: 200px;
+  height: 200px;
+}
+
+.grupoDeBotones {
+  display: flex;
+  justify-content: center;
+  margin-top: 6vh;
+}
+
+.boton {
+  height: 30vh;
+  width: 18vw;
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+
+.botones {
+  height: 20vh;
+  width: 17vw;
+}
+
+.reglas {
+  height: 37vh;
+  width: 20vw;
+  margin-top: 2vh;
+}
+.imagenReglas {
+  text-align: center;
+  width: 100%;
+}
+
+#start-text {
+  text-align: center;
+}
+
+#result {
+  text-align: center;
+}
+
+.imagenesMuestra {
+  width: 10vw;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
